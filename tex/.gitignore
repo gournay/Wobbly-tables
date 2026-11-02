@@ -1,0 +1,4 @@
+# Only .tex sources are tracked in this folder
+*
+!*.tex
+!.gitignore
