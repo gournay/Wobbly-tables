@@ -1,6 +1,6 @@
 # Balancing non-rectangular tables
 
-Antoine Gournay (TU Dresden)
+Antoine Gournay
 
 This repository contains the paper *Balancing non-rectangular tables*, a formalisation of most of its
 results in the proof assistant [Lean 4](https://lean-lang.org/) with
